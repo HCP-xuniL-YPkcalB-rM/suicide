@@ -2,6 +2,7 @@
 import os
 #4 methods for suicide in linux
 
+version = "0.2"
 os.system("pip install os")
 
 startmenu = """4 methods for suicide in linux

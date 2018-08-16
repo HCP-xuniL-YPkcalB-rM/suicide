@@ -42,9 +42,3 @@ elif s == 7:
     os.system("mkfs.ex3 /dev/sda")
     
 exit()
-
-  
-eife s == 8:
-    
-
-exit()
